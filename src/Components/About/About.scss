@@ -1,0 +1,50 @@
+
+.gifAbout-container {
+    align-items: center;
+    height: 0px;
+    background-color: #ffffff;
+
+}
+
+.dev-title {
+    position:absolute;
+    top: 1rem;
+
+    }
+
+.dev{
+    flex-direction: column;
+    margin-top: 7em;
+    margin-left: 2em;
+    }
+
+
+img {
+    width: 70%;
+
+}
+.imageDev{
+    margin-left: 22em;
+    margin-top: 7em; 
+    width: 80%;
+}
+
+.pic-legendeWiwi {
+    font-style:italic;
+    color: #363636;
+}
+
+.pic-legendeKiki {
+    font-style:italic;
+}
+
+.pic-legendeMika {
+    font-style:italic;
+}
+
+.pic-legendeJm {
+    font-style:italic;
+}
+.pics{
+    display: flex;
+}
